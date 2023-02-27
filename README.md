@@ -2,10 +2,11 @@
  
 <div align = "center">
   <dl>
-    <dt>:orange_book:Focusing on Swift & iOS</<dt>
-    <dt>:hammer: Creator of applications and frameworks</<dt>
-    <dt>:ram: Founder the ObjCCN</<dt>
-    <dt>:meat_on_bone: Meat lover</<dt>
+    <dt>💬About me:</dt>
+    <dt>🌱The Growing Developer</dt>
+    <dt>:orange_book:Focusing on Java & back-end</dt>
+    <dt>:hammer: Creator of applications and frameworks</dt>
+    <dt>:meat_on_bone: Meat lover</dt>
    </dl>
 </div>
  
