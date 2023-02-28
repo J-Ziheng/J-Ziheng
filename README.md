@@ -6,7 +6,9 @@
     <dt>🌱The Growing Developer</dt>
     <dt>:orange_book:Focusing on Java & back-end</dt>
     <dt>:hammer: Creator of applications and frameworks</dt>
-    <dt>:meat_on_bone: Meat lover</dt>
+   <dt>🚩Target back-end Engineer or Architect</dt>
+   <dt>🌈Optimistic And Loving Life.</dt>
+   <dt>:meat_on_bone: Meat lover</dt>
    </dl>
 </div>
  
